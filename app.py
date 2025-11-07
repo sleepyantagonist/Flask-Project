@@ -14,3 +14,4 @@ if __name__ == '__main__':
 def display:
     if request.method == 'POST':
         investment = request.form.get('investment_amount')
+        d
