@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec7fb99d-7a3b-454f-b49d-f105d4ac3c75" name="Changes" comment="d1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ec7fb99d-7a3b-454f-b49d-f105d4ac3c75" name="Changes" comment="d2">
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sleepyantagonist"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sleepyantagonist/Flask-Project.git",
+    "accountId": "edfcd628-191e-4756-96d1-5c47f22634f6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -92,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762444545147</updated>
       <workItem from="1762444546147" duration="1052000" />
-      <workItem from="1762529602248" duration="1676000" />
+      <workItem from="1762529602248" duration="2223000" />
     </task>
     <task id="LOCAL-00001" summary="d1">
       <option name="closed" value="true" />
@@ -110,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762445599028</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="d1">
+      <option name="closed" value="true" />
+      <created>1762531300257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762531300257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="d2">
+      <option name="closed" value="true" />
+      <created>1762531354269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762531354269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="d1" />
-    <option name="LAST_COMMIT_MESSAGE" value="d1" />
+    <MESSAGE value="d2" />
+    <option name="LAST_COMMIT_MESSAGE" value="d2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FlaskProject1$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1762531058045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
