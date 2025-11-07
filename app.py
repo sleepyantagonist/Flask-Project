@@ -10,3 +10,7 @@ def hello_world():  # put application's code here
 
 if __name__ == '__main__':
     app.run()
+
+def display:
+    if request.method == 'POST':
+        investment = request.form.get('investment_amount')
